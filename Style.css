@@ -217,7 +217,7 @@ overflow-x: hidden;
 
 .earthButtonTitle:hover #earthButton{
 	border-radius: 100px;
-	background-image: url('Images/earthmenu.SVG');
+	background-image: url('Images/earthmenu.svg');
   background-repeat: no-repeat;
   background-size: cover;
 	margin:auto;
@@ -242,7 +242,7 @@ overflow-x: hidden;
 }
 
 .saturnButtonTitle:hover #saturnButton{
-	background-image: url('Images/saturnMenuhover.SVG');
+	background-image: url('Images/saturnMenuhover.svg');
 	background-repeat: no-repeat;
   background-size: cover;	
 	margin:auto;
