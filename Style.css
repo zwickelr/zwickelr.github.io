@@ -3,13 +3,13 @@
 
 @font-face {
   font-family: 'RussoOne-Regular';
-  src: url('Fonts/RussoOne-Regular.ttf') format('ttf');
+  src: url('Fonts/RussoOne-Regular.woff') format('woff');
 }
 
 
 @font-face {
   font-family: 'Montserrat-Regular';
-  src: url('Fonts/Montserrat') format('ttf');
+  src: url('Fonts/Montserrat-Regular.woff') format('woff');
 }
 
 *{
@@ -629,7 +629,7 @@ height:80px;
 
 .text{
 	margin-bottom: 20px;
-	font-family:Montserrat;
+	font-family: 'Montserrat-Regular';
 	font-size: 12px;
 }
 
