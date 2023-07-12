@@ -217,7 +217,7 @@ overflow-x: hidden;
 
 .earthButtonTitle:hover #earthButton{
 	border-radius: 100px;
-	background-image: url('Images/earthmenu.svg');
+	background-image: url('Images/Earthmenu.svg');
   background-repeat: no-repeat;
   background-size: cover;
 	margin:auto;
